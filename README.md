@@ -5,8 +5,6 @@ Gerenciador de tarefas
 
 > Status: Concluído
 
-https://donatrello.herokuapp.com/
-
 ![Hnet-image](https://user-images.githubusercontent.com/77937182/157863452-31d42b01-7bbd-43fd-bd47-97aad24ea11b.gif)
 
 Nesse projeto fiz uma plataforma estilo Trello, que serve como um gerenciador de tarefas. A aplicação tem varias utilidades, como poder Criar Novas tarefas e movimentar essas tarefas entre colunas.Tambem é posivel colocar tags nessas tarefas como : urgente, em prazo e revisar.
